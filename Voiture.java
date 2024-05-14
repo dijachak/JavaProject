@@ -15,7 +15,6 @@ public class Voiture {
         this.vitesse = 0.0; // Initialiser la vitesse à zéro au démarrage
     }
 
-    // Méthode pour démarrer la voiture
     public void demarrer() {
         System.out.println("La voiture démarre avec succes .");
 
