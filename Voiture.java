@@ -24,6 +24,8 @@ public class Voiture {
     // Méthode pour arrêter la voiture
     public void arreter() {
         System.out.println("La voiture s'arrête.");
+        System.out.println("La voiture s'arrête.");
+
     }
 
     // Méthode pour accélérer la voiture
@@ -47,7 +49,6 @@ public class Voiture {
         System.out.println("Vitesse : " + vitesse + " km/h");
     }
 
-    // Méthode principale pour tester la classe Voiture
     public static void main(String[] args) {
         // Création d'une instance de Voiture
         Voiture maVoiture = new Voiture("Toyota", "Corolla", 2020, "rouge");
