@@ -23,7 +23,7 @@ public class Voiture {
 
     // Méthode pour arrêter la voiture
     public void arreter() {
-        System.out.println("Oppss La voiture s'arrête.");
+        System.out.println("La voiture s'arrête.");
     }
 
     // Méthode pour accélérer la voiture
