@@ -17,7 +17,10 @@ public class Voiture {
 
     // Méthode pour démarrer la voiture
     public void demarrer() {
+        System.out.println("Bravo");
         System.out.println("La voiture démarre avec succes .");
+        System.out.println("La voiture démarre avec succes .");
+
     }
 
     // Méthode pour arrêter la voiture
