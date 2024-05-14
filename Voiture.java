@@ -19,7 +19,6 @@ public class Voiture {
     public void demarrer() {
         System.out.println("Bravo");
         System.out.println("La voiture démarre avec succes .");
-        System.out.println("La voiture démarre avec succes .");
 
     }
 
